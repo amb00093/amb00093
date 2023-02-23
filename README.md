@@ -21,6 +21,6 @@
 </p>
 
 
-⏳ **Year Progress** { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 10.15 % as on ⏰ 6-Feb-2023
+ [<h1>⏳ Cuánto llevamos de año (click) </h1>](https://hugovk.github.io/year-progress-bar/)
 
 
